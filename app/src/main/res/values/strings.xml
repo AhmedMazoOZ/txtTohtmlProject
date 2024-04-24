@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FileReader</string>
+    <string name="Text_test">في البدء كانت الكلمة</string>
+    <string name="click">اضغط</string>
+    <string name="visit">لزيارة المصدر</string>
+</resources>
